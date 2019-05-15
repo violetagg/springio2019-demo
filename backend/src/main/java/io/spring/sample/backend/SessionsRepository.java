@@ -42,8 +42,7 @@ public class SessionsRepository {
 		sessionsList.add("Migrating a modern spring web application to serverless");
 		sessionsList.add("Distributed Tracing in the Wild");
 		sessionsList.add("GraalVM for Java developers");
-		//sessionsList.add("Going Cloud Native with Spring Cloud Azure");
-		sessionsList.add(null);
+		sessionsList.add("Going Cloud Native with Spring Cloud Azure");
 		sessionsList.add("Event Driven with Spring");
 		sessionsList.add("Reactive Relational Database Connectivity");
 		sessionsList.add("Cloud Native Spring Boot Admin");
